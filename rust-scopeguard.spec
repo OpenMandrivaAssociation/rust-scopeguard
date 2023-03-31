@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.1.0
-Release:        1
+Release:        2
 Summary:        RAII scope guard that will run a given closure when it goes out of scope
 
 # Upstream license specification: MIT/Apache-2.0
